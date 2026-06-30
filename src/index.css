@@ -9,6 +9,9 @@
   --color-brand-600: #0284c7;
   --color-brand-700: #0369a1;
   --color-brand-900: #0c4a6e;
+  --color-dark-blue-950: #0b192e;
+  --color-dark-blue-900: #0e2440;
+  --color-dark-blue-800: #133054;
 }
 
 @layer base {

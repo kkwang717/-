@@ -2,5 +2,7 @@
   "name": "源头科技 - AI驱动的肿瘤医院患者增长系统",
   "description": "通过内容引流、智能体承接、标签化运营与私域转化，帮助肿瘤医院获得高意向患者，提升复诊率与转化效率。",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
